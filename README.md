@@ -1,4 +1,4 @@
-# Research method and presentation
+# Research Method and Presentation
 
 > A collection of academic writing artifacts, coursework deliverables, and professional documentation completed for the **Research Methodology** course.
 
